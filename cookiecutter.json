@@ -1,0 +1,9 @@
+{
+    "templates": {
+        "poertry-project": {
+            "path": "./poetry-project",
+            "title": "poetry-project",
+            "description": "A basic src-layout folder structure with a pyproject.toml file created for poetry"
+        }
+        }
+    }

@@ -1,0 +1,19 @@
+{
+  "project_name": "project name",
+  "project_short_description": "ToDo",
+  "package_name": "{{ cookiecutter.project_name }}",
+  "__project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+  "__package_slug": "{{ cookiecutter.package_name.lower().replace(' ', '_') }}",
+  "author": "kvanmol",
+  "project_version": "0.0.1",
+  "python_version": "3.12",
+  "open_source_license": [
+    "MIT",
+    "Apache 2-0",
+    "GNU General Public License v3.0",
+    "CC0 v1.0 Universal",
+    "BSD 3-Clause",
+    "Proprietary",
+    "None"
+  ]
+}

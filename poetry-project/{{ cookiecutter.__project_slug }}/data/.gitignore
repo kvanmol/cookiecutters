@@ -1,0 +1,6 @@
+# This file reasures that the directory "data" is included in the repository but stays empty.
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore

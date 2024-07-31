@@ -3,7 +3,7 @@
   "project_short_description": "ToDo",
   "package_name": "{{ cookiecutter.project_name }}",
   "__project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-  "__package_slug": "{{ cookiecutter.package_name.lower().replace(' ', '_') }}",
+  "__package_slug": "{{ cookiecutter.project_name.lower()..replace('-', '_') }}",
   "author": "kvanmol",
   "project_version": "0.0.1",
   "python_version": "3.12",

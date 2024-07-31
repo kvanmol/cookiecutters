@@ -9,6 +9,8 @@ packages = [
     { include = "{{ cookiecutter.__package_slug }}", from = "src" },
 ]
 
+[tool.poetry.scripts]
+
 [tool.poetry.dependencies]
 python = "^{{ cookiecutter.python_version }}"
 
